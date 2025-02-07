@@ -1,0 +1,1 @@
+This is a Python project to manage personal income and expenses using Streamlit.
